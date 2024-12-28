@@ -1,0 +1,11 @@
+.game-list{
+    list-style: none;
+}
+
+.logo {
+    height: 50px;
+}
+
+header{
+    z-index: 10;
+}
